@@ -16,4 +16,5 @@ A simple nodejs app that
 3. Change directory to ClassReport ```cd ClassReport```
 
 4. Start the app with ```npm start```
+
 ❤
